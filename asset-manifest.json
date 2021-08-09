@@ -4,8 +4,8 @@
     "app.js.map": "/auditorium-mobile/static/js/app.c92148fa.chunk.js.map",
     "runtime~app.js": "/auditorium-mobile/static/js/runtime~app.88e8d0c4.js",
     "runtime~app.js.map": "/auditorium-mobile/static/js/runtime~app.88e8d0c4.js.map",
-    "static/js/2.d4204865.chunk.js": "/auditorium-mobile/static/js/2.d4204865.chunk.js",
-    "static/js/2.d4204865.chunk.js.map": "/auditorium-mobile/static/js/2.d4204865.chunk.js.map",
+    "static/js/2.8381eb98.chunk.js": "/auditorium-mobile/static/js/2.8381eb98.chunk.js",
+    "static/js/2.8381eb98.chunk.js.map": "/auditorium-mobile/static/js/2.8381eb98.chunk.js.map",
     "fonts/MaterialCommunityIcons.ttf": "/auditorium-mobile/./fonts/MaterialCommunityIcons.ttf",
     "favicon-16.png": "/auditorium-mobile/favicon-16.png",
     "favicon-32.png": "/auditorium-mobile/favicon-32.png",
@@ -13,7 +13,7 @@
     "index.html": "/auditorium-mobile/index.html",
     "manifest.json": "/auditorium-mobile/manifest.json",
     "serve.json": "/auditorium-mobile/serve.json",
-    "static/js/2.d4204865.chunk.js.LICENSE.txt": "/auditorium-mobile/static/js/2.d4204865.chunk.js.LICENSE.txt",
+    "static/js/2.8381eb98.chunk.js.LICENSE.txt": "/auditorium-mobile/static/js/2.8381eb98.chunk.js.LICENSE.txt",
     "static/media/Chembalo.png": "/auditorium-mobile/static/media/Chembalo.5e053f8a.png",
     "static/media/GrandPiano.png": "/auditorium-mobile/static/media/GrandPiano.5e053f8a.png",
     "static/media/UpRightPiano.png": "/auditorium-mobile/static/media/UpRightPiano.791ce387.png",
@@ -26,7 +26,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.88e8d0c4.js",
-    "static/js/2.d4204865.chunk.js",
+    "static/js/2.8381eb98.chunk.js",
     "static/js/app.c92148fa.chunk.js"
   ]
 }
